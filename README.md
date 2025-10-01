@@ -1,6 +1,6 @@
 # 马斯克 xAI 已开通网页版，国内可用！完全没有AI味儿-附详细使用教程
 >
->**发布时间：2025/09/22**
+>**发布时间：2025/10/02**
 
 ---
 
@@ -20,10 +20,10 @@
 
 | 网站地址                  | 支持的AI模型          | 是否免费 | 是否需注册 | 稳定性 | 独特优势            |
 |---------------------------|-----------------------|----------|------------|--------|---------------------|
-| [xsimplechat.com](https://xsimplechat.com) | Grok 3, GPT-5,GPT-o1 DeepSeek, Claude 4 Sonnet | 是       | 无需注册   | ★★★★★  | Grok网页版 & GPT中文版 |
-| [ai.lanjingai.org](https://ai.lanjingai.org)       | Grok 3、GPT-5, Claude 4 Sonnet、DeepSeek, Midjourney   | 是       | 无需注册   | ★★★★★  | 官网般流畅体验     |
-| [lanjing.ai](https://lanjing.ai)             | GPT-5, GPT-4o                | 是       | 无需注册   | ★★★★☆  | 提供入门教程       |
-| [cgn.lify.vip](https://cgn.lify.vip)         | GPT-5, GPT-3.5              | 是       | 无需注册   | ★★★★☆  | 稳定备用选择       |
+| [xsimplechat.com](https://xsimplechat.com) | Grok 4, GPT-5,GPT-o1 DeepSeek, Claude 4 Sonnet | 是       | 无需注册   | ★★★★★  | Grok网页版 & GPT中文版 |
+| [ai.lanjingai.org](https://ai.lanjingai.org)       | Grok 4、GPT-5, Claude 4 Sonnet、DeepSeek, Midjourney   | 是       | 无需注册   | ★★★★★  | 官网般流畅体验     |
+| [lanjing.ai](https://lanjing.ai)             | Grok-4、GPT-5, GPT-4o                | 是       | 无需注册   | ★★★★☆  | 提供入门教程       |
+| [cgn.lify.vip](https://cgn.lify.vip)         | Grok-4、GPT-5, GPT-3.5              | 是       | 无需注册   | ★★★★☆  | 稳定备用选择       |
 
 
 ---
